@@ -43,7 +43,7 @@ def main() -> None:
     )
     _inject_styles()
 
-    st.title("Notes Cleaner Pro")
+    st.title("ConnectHealth Notes")
     st.caption("Polished notes or CRM records—generate once, copy for Microsoft Teams or email.")
 
     if "last_output" not in st.session_state:

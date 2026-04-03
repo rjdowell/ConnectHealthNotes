@@ -37,7 +37,7 @@ def _inject_styles() -> None:
 
 def main() -> None:
     st.set_page_config(
-        page_title="Notes Cleaner Pro",
+        page_title="ConnectHealth Notes",
         layout="wide",
         initial_sidebar_state="collapsed",
     )
